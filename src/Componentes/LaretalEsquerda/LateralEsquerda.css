@@ -1,0 +1,48 @@
+.logoLateralEsquerda img {
+    width: 100px;
+}
+
+.logoLateralEsquerda {
+    display: flex;
+    padding: 18px;
+    margin-bottom: 5px;
+    position: fixed;
+}
+
+.ItemEsquerda{
+    width: 170px;
+    padding: 14px;
+    border-radius: 10px;
+    display: flex; 
+    gap: 12px;
+    margin: 0 11px 0 11px;
+}
+
+.ItemEsquerda:hover{
+    background: #c7c7c742;
+    cursor: pointer;
+}
+
+.MenuLateralEsquerda img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.lateralEsquerda {
+    padding-top: 20px;
+}
+
+.MenuLateralEsquerda {
+    position: fixed;
+    margin-top: 75px;
+}
+
+.button_more {
+    position: fixed;
+    bottom: 3px
+}
+
+.iconeSimples{
+    width: 24px;
+    height: 24px;
+}
