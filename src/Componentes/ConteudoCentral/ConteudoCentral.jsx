@@ -9,7 +9,7 @@ import usuario2 from '../../assets/img/nirvana.jpeg'
 import usuario3 from '../../assets/img/alice.jpeg'
 import usuario4 from '../../assets/img/saopaulo.jpeg'
 import usuario5 from '../../assets/img/proa.jpeg'
-import usuario6 from '../../assets/img/SOAD.jpeg'
+import usuario6 from '../../assets/img/soad.jpeg'
 import usuario7 from '../../assets/img/metallica.jpeg'
 import usuario8 from '../../assets/img/doors.jpeg'
 
