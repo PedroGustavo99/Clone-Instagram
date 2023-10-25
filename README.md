@@ -4,6 +4,8 @@ A ideia deste projeto envolve a elaboração de uma réplica da página inicial 
 
 Acesse o link: https://clone-instagramnew.vercel.app/
 
+<img src ="instagram.jpeg">
+
 ## Tecnologias utilizadas
 <ul>
   <li>HTML</li>
