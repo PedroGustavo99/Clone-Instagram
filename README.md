@@ -13,3 +13,5 @@ Acesse o link: https://clone-instagramnew.vercel.app/
   <li>JavaScript</li>
   <li>React + Vite</li>
 </ul>
+
+Obs: um objetivo futuramente é deixar esse projeto responsivo.
